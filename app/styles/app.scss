@@ -28,13 +28,23 @@ table{
       }
     }
   }
+
+  img{
+    width: 70px;
+    height: 70px;
+  }
 }
 
+//SECTIONS
 #players{
   table {
-    img{
-      width: 70px;
-      height: 70px;
-    }
+
+  }
+}
+
+#player{
+  img{
+    width: 200px;
+    height: 200px;
   }
 }
