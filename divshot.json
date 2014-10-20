@@ -1,6 +1,6 @@
 {
   "name": "kerad-league",
-  "root": "./",
+  "root": "dist",
   "clean_urls": true,
   "error_page": "y"
 }
