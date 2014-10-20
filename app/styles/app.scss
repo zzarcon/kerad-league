@@ -1,0 +1,40 @@
+html, body {
+  margin: 20px;
+  text-align: center;
+}
+
+table{
+  width: 700px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid;
+
+  th{
+    border-bottom: 1px solid;
+  }
+
+  tbody{
+    tr{
+      cursor: pointer;
+      &:nth-child(even){
+        background-color: #BAC8D9;
+      }
+      &:nth-child(odd){
+        background-color: #BAC8D9;
+      }
+      &:hover{
+        background-color: #D9AF32;
+      }
+    }
+  }
+}
+
+#players{
+  table {
+    img{
+      width: 70px;
+      height: 70px;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<table>
+  <thead>
+    <tr>
+      <th>Home team</th>
+      <th>Result</th>
+      <th>Away team</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each match in this}}
+      {{partial "partials/match-row"}}
+    {{/each}}
+  </tbody>
+</table>

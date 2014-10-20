@@ -1,0 +1,8 @@
+{{#link-to "player" player.id tagName="tr"}}
+  <td>
+    <img {{bind-attr src="player.picture"}}>
+  </td>
+  <td>{{player.name}}</td>
+  <td>{{player.age}}</td>
+  <td>{{player.goals}}</td>
+{{/link-to}}
