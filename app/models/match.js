@@ -13,6 +13,6 @@ export default DS.Model.extend({
     }
 
     var date = new Date(this.get('startTime'));
-    return moment(date).format('DD/MM/YYYY - HH:mm');
+    return moment(date).format('dddd, DD/MM/YYYY - HH:mm');
   }.property('startTime')
 });
