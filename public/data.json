@@ -131,7 +131,7 @@
     {
       "id": 11,
       "name": "Giannicola Olivadoti",
-      "goals": 31,
+      "age": 31,
       "picture": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/197203_1005139169812_7938_n.jpg?oh=f8055a97c09ca0756045b61113d3ce2e&oe=54AE9F50&__gda__=1425333657_f2fa7e02b47cc4c87a3056c3e7582cbc"
     },
     {
@@ -143,13 +143,13 @@
     {
       "id": 13,
       "name": "Sergio luceno",
-      "goals": 29,
+      "age": 29,
       "picture": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-9/47861_1598519564419_1195732_n.jpg?oh=f214e0e2b476d59eec755df6fcde1d2c&oe=54ECBDD6&__gda__=1420874098_472fc36045cce031677a1e6bc5aca6dd"
     },
     {
       "id": 14,
       "name": "Enric Lluelles",
-      "goals": 30,
+      "age": 30,
       "picture": "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/76510_500388416310_2213371_n.jpg?oh=8073787c2b3e233feab8ae7f2b2dc3f4&oe=54AFFC97&__gda__=1420831241_8a4e3c726918ef20e1560a3bde5ec817"
     }
   ]
